@@ -1,6 +1,164 @@
 	[
 		{
 			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/19_20230501_225507_0018.png",
+			"name": "Photography 1",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/1_20230508_005400_0000.png",
+			"name": "Photography 2",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/20_20230427_003533_0019.png",
+			"name": "Photography 3",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/2_20230508_005400_0001.png",
+			"name": "Photography 4",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/23_20230501_225507_0022.png",
+			"name": "Photography 5",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/32_20230508_181149_0031.png",
+			"name": "Photography 6",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/4_20230427_005113_0003.png",
+			"name": "Photography 7",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/5_20230427_005113_0004.png",
+			"name": "Photography 8",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/4_20230508_005400_0003.png",
+			"name": "Photography 9",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/5_20230502_182853_0004.png",
+			"name": "Photography 10",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/6_20230427_005113_0005.png",
+			"name": "Photography 11",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230502_184437.png",
+			"name": "Photography 12",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_003242.png",
+			"name": "Photography 13",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_003658.png",
+			"name": "Photography 14",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_003714.png",
+			"name": "Photography 15",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_003927.png",
+			"name": "Photography 16",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_003959.png",
+			"name": "Photography 17",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004029.png",
+			"name": "Photography 18",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004052.png",
+			"name": "Photography 19",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004108.png",
+			"name": "Photography 20",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004327.png",
+			"name": "Photography 21",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004528.png",
+			"name": "Photography 22",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004553.png",
+			"name": "Photography 23",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004619.png",
+			"name": "Photography 24",
+			"collections": "Photography"
+		},
+		{
+			"author": "Droid Craft",
+			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Photography/IMG_20230510_004805.png",
+			"name": "Photography 25",
+			"collections": "Photography"
+		},
+
+
+
+
+
+
+
+
+		{
+			"author": "Droid Craft",
 			"url": "https://raw.githubusercontent.com/Purv06/WallPop.json/main/Scenery/10_20230419_142015_0009.png",
 			"name": "Scenery 1",
 			"collections": "Scenery"
